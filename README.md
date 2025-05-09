@@ -2,13 +2,13 @@
 
 A complete marketing analytics project that simulates the end-to-end process of analyzing UTM-tagged campaign data—starting from data cleaning and normalization to campaign performance insights, creative effectiveness, lifecycle trends, and keyword intent analysis.
 
-
+---
 
 ## 🔧 Project Objective
 
 To create a structured, insight-driven Excel-based dashboard that analyzes multi-channel marketing performance using standardized UTM parameters. The project highlights data quality governance, funnel performance, lifecycle tracking, and advanced behavioral segmentation for marketing optimization.
 
-
+---
 
 ## 📁 Project Phases
 
@@ -20,21 +20,33 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
 - Removed duplicate records to avoid skewed performance metrics
 - Ensured consistent tracking values across campaigns
 
+📌 **Screenshot: Power Query Cleanup**
 
+![Power Query Cleanup](./images/power_query_cleaning.png)
+
+---
 
 ### 📊 Phase 2: Campaign Performance Analysis
 
 - Created calculated KPIs:
   - **CVR** (Conversion Rate)
   - **RPC** (Revenue per Click)
-  - **Revenue per Conversion**
+  - **Revenue per Conversion)
 - Built pivot tables to assess:
   - Top-performing campaigns
   - Most efficient traffic sources & mediums
   - Best-performing creatives (e.g., `video_ad` vs `banner1`)
 - Applied conditional formatting to highlight high/low performers
 
+📌 **Screenshot: Campaign KPI Summary**
 
+![Campaign KPI Summary](./images/campaign_kpi_summary.png)
+
+📌 **Screenshot: Creative Performance Heatmap**
+
+![Creative Performance](./images/creative_performance_heatmap.png)
+
+---
 
 ### 📈 Phase 3: Funnel & Lifecycle Trends
 
@@ -43,7 +55,15 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
 - Tracked CVR and RPC performance by lifecycle month per campaign
 - Used line charts and heatmaps to detect saturation and fatigue trends
 
+📌 **Screenshot: Campaign Lifecycle Charts**
 
+![Lifecycle Trends](./images/lifecycle_linecharts.png)
+
+📌 **Screenshot: Lifecycle Heatmap (CVR)**
+
+![Lifecycle Heatmap](./images/lifecycle_heatmap_cvr.png)
+
+---
 
 ### 🧠 Phase 4: Advanced Behavioral Insights
 
@@ -55,7 +75,15 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
   - Grouped `utm_term` into `purchase_intent` and `exploratory`
   - Compared each cluster’s performance on clicks, CVR, RPC
 
+📌 **Screenshot: Keyword Intent Performance**
 
+![Keyword Intent](./images/intent_cluster_comparison.png)
+
+📌 **Screenshot: Engagement Funnel Drop-Off**
+
+![Funnel Drop-Off](./images/funnel_dropoff.png)
+
+---
 
 ## 📌 Final Output
 
@@ -70,23 +98,23 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
   - Landing page experiences
   - Keyword targeting based on intent
 
-
+---
 
 ## 📎 Tools Used
 
 - Microsoft Excel (Pivot Tables, Power Query, Formulas)
 - Conditional Formatting
-- Manual tagging + semantic classification (intent_cluster)
+- Manual tagging + semantic classification (`intent_cluster`)
 
-
+---
 
 ## 📍 Author
 
 **Payal Nagaonkar**  
 Data Analyst | Marketing Insights | Funnel Optimization  
-📫 [LinkedIn](https://www.linkedin.com/in/payal-sanjay-nagaonkar/)
+📫 [LinkedIn](https://www.linkedin.com/in/payal-sanjay-nagaonkar-76b733188/)
 
-
+---
 
 ## 🧩 Sample Metrics
 
@@ -97,7 +125,6 @@ Data Analyst | Marketing Insights | Funnel Optimization
 | Average CVR       | 19.58%        |
 | Average RPC       | $3.71         |
 
-
+---
 
 > 📣 *This project showcases a complete analytics workflow using UTM-tagged data and is a powerful template for real-world marketing analytics in e-commerce, SaaS, and DTC campaigns.*
-
