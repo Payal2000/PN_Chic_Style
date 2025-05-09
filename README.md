@@ -2,13 +2,13 @@
 
 A complete marketing analytics project that simulates the end-to-end process of analyzing UTM-tagged campaign data—starting from data cleaning and normalization to campaign performance insights, creative effectiveness, lifecycle trends, and keyword intent analysis.
 
----
+
 
 ## 🔧 Project Objective
 
 To create a structured, insight-driven Excel-based dashboard that analyzes multi-channel marketing performance using standardized UTM parameters. The project highlights data quality governance, funnel performance, lifecycle tracking, and advanced behavioral segmentation for marketing optimization.
 
----
+
 
 ## 📁 Project Phases
 
