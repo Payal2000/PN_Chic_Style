@@ -2,13 +2,12 @@
 
 A complete marketing analytics project that simulates the end-to-end process of analyzing UTM-tagged campaign data—starting from data cleaning and normalization to campaign performance insights, creative effectiveness, lifecycle trends, and keyword intent analysis.
 
----
+
 
 ## 🔧 Project Objective
 
 To create a structured, insight-driven Excel-based dashboard that analyzes multi-channel marketing performance using standardized UTM parameters. The project highlights data quality governance, funnel performance, lifecycle tracking, and advanced behavioral segmentation for marketing optimization.
 
----
 
 ## 📁 Project Phases
 
@@ -20,7 +19,7 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
 - Removed duplicate records to avoid skewed performance metrics
 - Ensured consistent tracking values across campaigns
 
----
+
 
 ### 📊 Phase 2: Campaign Performance Analysis
 
@@ -34,7 +33,7 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
   - Best-performing creatives (e.g., `video_ad` vs `banner1`)
 - Applied conditional formatting to highlight high/low performers
 
----
+
 
 ### 📈 Phase 3: Funnel & Lifecycle Trends
 
@@ -43,7 +42,7 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
 - Tracked CVR and RPC performance by lifecycle month per campaign
 - Used line charts and heatmaps to detect saturation and fatigue trends
 
----
+
 
 ### 🧠 Phase 4: Advanced Behavioral Insights
 
@@ -55,7 +54,7 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
   - Grouped `utm_term` into `purchase_intent` and `exploratory`
   - Compared each cluster’s performance on clicks, CVR, RPC
 
----
+
 
 ## 📌 Final Output
 
@@ -70,7 +69,7 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
   - Landing page experiences
   - Keyword targeting based on intent
 
----
+
 
 ## 📎 Tools Used
 
@@ -78,13 +77,13 @@ To create a structured, insight-driven Excel-based dashboard that analyzes multi
 - Conditional Formatting
 - Manual tagging + semantic classification (intent_cluster)
 
----
+
 
 ## 📍 Author
 
 **Payal Nagaonkar**  
 Data Analyst | Marketing Insights | Funnel Optimization  
-📫 [LinkedIn](https://www.linkedin.com/in/payal-sanjay-nagaonkar-76b733188/)
+📫 [LinkedIn](https://www.linkedin.com/in/payal-sanjay/)
 
 ---
 
